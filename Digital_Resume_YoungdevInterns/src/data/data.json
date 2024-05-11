@@ -1,0 +1,320 @@
+{
+  "header": {
+    "name": "Ayesha khan",
+    "role": "CyberSecurtity Analyst CISCO Certified",
+    "overallExperience": {
+      "startDate": "May 21, 2018",
+      "replacer": "{{experience}}"
+    },
+    "bio": " Cyber Security Analyst adept at threat detection, incident response, and implementing robust security measures. Skilled in analyzing vulnerabilities and providing strategic solutions to mitigate risks. Passionate about maintaining the integrity and confidentiality of digital assets.",
+    "contact": [
+      {
+        "type": "email",
+        "value": "khanayesha7024@gmail.com",
+        "isHidden": false,
+        "icon": "email"
+      },
+      {
+        "type": "phone",
+        "value": "0900 78601",
+        "isHidden": false,
+        "icon": "phone"
+      },
+      {
+        "type": "website",
+        "value": "Resume",
+        "isHidden": false,
+        "icon": "website",
+        "link": "http://localhost:3000"
+      },
+      {
+        "type": "address",
+        "value": "Multan , Pakistan",
+        "isHidden": false,
+        "icon": "address"
+      }
+    ],
+    "links": [
+      {
+        "type": "GitHub",
+        "value": "https://github.com/AyeshaKhan-Yteer",
+        "isHidden": false,
+        "icon": "github"
+      },
+      {
+        "type": "LinkedIn",
+        "value": "https://www.linkedin.com/in/ayesha-khan-39aa012a0",
+        "isHidden": false,
+        "icon": "linkedin"
+      }
+    ],
+    "image": {
+      "imageName": "profile.jpg",
+      "showImage": true
+    },
+    "badges": {
+      "isHidden": true,
+      "badges": [
+        { "badgeName": "IBM", "link": "", "icon": "", "isHidden": false },
+        { "badgeName": "Google", "link": "", "icon": "", "isHidden": false }
+      ]
+    }
+  },
+  "experience": [
+    {
+      "company": "LOREUM IPSUM",
+      "duration": {
+        "from": "14 july, 2020",
+        "to": "August , 2023"
+      },
+      "location": "Muzaffargarh, Pakistan",
+      "work": [
+        {
+          "role": "XYZ",
+          "duration": {
+            "from": "1 Jul, 2020",
+            "to": "present"
+          },
+          "projects": [
+            {
+              "name": "ABCDEFG",
+              "technologies": ["Python", "PHP", "PYCharm"],
+              "responsibilities": [
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "Nunc dapibus sed mi pretium aliquam. Nunc tempus dolor massa, id imperdiet mauris pellentesque id."
+              ]
+            },
+            {
+              "name": "EFGHI",
+              "technologies": ["Ubuntu", "SNORT", "Linux"],
+              "responsibilities": [
+                "Sed fringilla diam lectus",
+                "Praesent at volutpat ante. Proin erat quam, molestie ac nulla ut, posuere vehicula magna"
+              ]
+            },
+            {
+              "name": "TUVW",
+              "technologies": ["Linux", "Kali"],
+              "responsibilities": [
+                "Praesent at volutpat ante. Proin erat quam, molestie ac nulla ut, posuere vehicula magna",
+                "Nunc dapibus sed mi pretium aliquam"
+              ]
+            },
+            {
+              "name": "XYZQA",
+              "technologies": ["React", "Git", "ExpressJS"],
+              "responsibilities": [
+                "Phasellus placerat volutpat arcu, et euismod velit facilisis sed. Nunc ut purus sapien. Sed tristique tempus enim ut condimentum.",
+                "rci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                "Praesent varius viverra libero."
+              ]
+            }
+          ],
+          "description": [
+            "tincidunt non lacinia nec, finibus eu magna",
+            " Ut laoreet placerat eleifend",
+            "ellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+          ],
+          "showDescription": true
+        },
+        {
+          "role": "ABCDF",
+          "duration": {
+            "from": " 01 May, 2018",
+            "to": "30 Jun, 2020"
+          },
+          "projects": [
+            {
+              "name": "STVUW",
+              "technologies": ["VSCode", "BootStrap", "JS", "CSS", "HTML5"],
+              "responsibilities": [
+                "Sed fringilla diam lectus.",
+                "Proin faucibus massa condimentum mattis sagittis"
+              ]
+            }
+          ],
+          "description": [
+            "In gravida mollis ligula, faucibus ultrices nisi sodales ut.",
+            "Vivamus vitae leo non nibh porta pulvinar nec ac dolor"
+          ],
+          "showDescription": true
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "type": "Graduation",
+      "degree": "BS.CS",
+      "school": "NFC-IET University, Multan",
+      "score": "84.25%",
+      "isHidden": false,
+      "duration": {
+        "from": "July, 2014",
+        "to": "May, 2018"
+      },
+      "isGraduation": true
+    },
+    {
+      "type": "Senior Secondary",
+      "degree": "",
+      "school": "XYZ , Pakistan",
+      "score": "75.6%",
+      "isHidden": true,
+      "duration": {
+        "from": "Jun, 2012",
+        "to": "May, 2013"
+      },
+      "isGraduation": false
+    },
+    {
+      "type": "Secondary",
+      "degree": "",
+      "school": "XYZ, Pakistan",
+      "score": "79.0%",
+      "isHidden": true,
+      "duration": {
+        "from": "July, 2010",
+        "to": "Jun, 2011"
+      },
+      "isGraduation": false
+    }
+  ],
+  "projects": [
+    {
+      "name": "Packet Sniffer",
+      "technologies": ["Python", "PyCharm Community", "Scapy"],
+      "desc": "A network packet sniffer built with the help of 'scapy' module which is entirely dedicated to capturing, handling and analyzing network traffic",
+      "isHidden": false
+    },
+    {
+      "name": "Intrusion Detection System",
+      "technologies": ["SNORT", "Linux", "Ubuntu"],
+      "desc": "Using SNORT, network admins can spot denial-of-service (DoS) attacks and distributed DoS (DDoS) attacks, Common Gateway Interface (CGI) attacks, buffer overflows, and stealth port scans",
+      "isHidden": false
+    }
+  ],
+  "others": {
+    "achievements": [
+      "Cras viverra vel eros in cursus",
+      "Pellentesque fringilla convallis erat ut mollis. Donec convallis congue porttitor.",
+      "Ut laoreet placerat eleifend."
+    ],
+    "certificates": [
+      {
+        "org": "CISCO(Skills for All)",
+        "name": "Junior CyberSecurity Analyst",
+        "valid": {
+          "from": "Feb 28, 2021",
+          "to": "Present"
+        },
+        "containsSub": true,
+        "shouldShowSubs": false,
+        "subs": [
+          {
+            "name": "Endpoint_Security",
+            "issuedOn": "July 11, 2021"
+          },
+          {
+            "name": "Networking_Devices and initial_Configurations",
+            "issuedOn": "March 20, 2021"
+          },
+          {
+            "name": "Networking Basics",
+            "issuedOn": "Feb 28, 2021"
+          }
+        ]
+      },
+      {
+        "org": "Programming hero",
+        "name": "Webdevelopment, C, Python,",
+        "valid": {
+          "from": "Sep 10, 2020",
+          "to": "Present",
+          "showCurrent": true
+        },
+        "containsSub": true,
+        "shouldShowSubs": false,
+        "subs": [
+          {
+            "name": "Python (Basic)",
+            "issuedOn": "Nov 14, 2021"
+          },
+          {
+            "name": "Python (Intermediate)",
+            "issuedOn": "Nov 14, 2021"
+          },
+          {
+            "name": " C (Intermediate)",
+            "issuedOn": "Nov 14, 2021"
+          },
+          {
+            "name": "WebDevelopment (HTML5 , CSS , JAVASC)",
+            "issuedOn": "Sep 11, 2020"
+          }
+        ]
+      },
+      {
+        "org": "Programming Hub",
+        "name": "HTML",
+        "valid": {
+          "from": "Jun 04, 2019",
+          "to": "Present"
+        },
+        "link": null,
+        "containsSub": false,
+        "shouldShowSubs": false,
+        "subs": []
+      }
+    ],
+    "skills": [
+      {
+        "rating": 5,
+        "technologies": ["JS", "HTML", "CSS"],
+        "info": "Excellent"
+      },
+      {
+        "rating": 4,
+        "technologies": ["Python", "PHP", "C", "React"],
+        "info": "Very Good"
+      },
+      {
+        "rating": 3,
+        "technologies": ["NodeJS", "MongoDB", "SQL"],
+        "info": "Good"
+      }
+    ],
+    "softwares": ["Figma", "VSCode", "Kali", "Ubuntu", "etc."],
+    "interests": ["Badminton", "Sudoku", "LoFi Music"],
+    "languages": [
+      {
+        "language": "Urdu",
+        "rating": 5,
+        "info": "Native or Bilingual Proficiency"
+      },
+      {
+        "language": "English",
+        "rating": 4,
+        "info": "Full Professional Proficiency"
+      }
+    ],
+    "showOnly": {
+      "achievements": false,
+      "certificates": true,
+      "skills": true,
+      "softwares": true,
+      "interests": true,
+      "languages": false
+    }
+  },
+  "footer": {
+    "isHidden": false
+  },
+  "consent": {
+    "isHidden": true,
+    "content": {
+      "text": [],
+      "links": []
+    }
+  }
+}
